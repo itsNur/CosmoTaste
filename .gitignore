@@ -5,3 +5,4 @@ __pycache__/
 recipes.json
 *~
 *.idea
+testing_endpoints.py
